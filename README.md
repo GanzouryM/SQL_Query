@@ -1,5 +1,5 @@
 # SQL_Query
 
-In this project, I create visualizations to reveal insights from a data set.
-I create data visualizations that tell a story or highlight patterns in the data set.
-My work reflects the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+In this project, I query the Chinook Database.
+The Chinook Database holds information about a music store.
+For this project, I assist the Chinook team with understanding the media in their store, their customers and employees, and their invoice information.
